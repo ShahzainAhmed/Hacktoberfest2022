@@ -17,21 +17,21 @@ alert("very Good");
 
 else if(a==4)
 {
-alert("Good");
+alert("Best");
 
 }
 
    
    else if(a==5)
 {
-alert("bad");
+alert("Worst");
 
 }
 
 else
 {
 
-   var VText="Hello world";
+   var VText="Hello world by Shahzain Ahmed";
    document.getElementById('paragrapgh').innerHTML=VText;
 
 
